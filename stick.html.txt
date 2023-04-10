@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+	<link rel="stylesheet" href="style.css">
+<head>
+	<meta charset="utf8"/>
+	<title>stickers</title>
+</head>
+
+<body background="background.png">
+	<font color="orange" size="7" face="courier new">
+<center>
+	<link rel="stickers" href="stickers.txt"
+</center>
+	<mark>
+
+	</mark>
+	<h1>
+		
+	</h1>
+<div class="courier"> <div class="heading">
+	<h3>
+		<span>stickers</span></h3>
+</div>
+<div class="box">
+
+<div class="dream">
+	<img src="jbg1.jpg">
+	<img src="jbg2.jpg">
+	<img src="jbg3.jpg">
+	<img src="jbg4.jpg">
+	<img src="jbg5.jpg">
+	<img src="jbg6.jpg">
+	<img src="jbg7.jpg">
+	<img src="jbg8.jpg">
+	<img src="jbg9.jpg">
+	<img src="jbg10.jpg">
+	<img src="jbg11.jpg">
+	<img src="jbg12.jpg">
+	<img src="jbg13.jpg">
+	<img src="jbg14.jpg">
+	<img src="jbg15.jpg">
+	<img src="jbg16.jpg">
+	<img src="jbg17.jpg">
+
+</div>
+
+</div>
+<div class="dream">
+	<img src="jbg1.jpg">
+	<img src="jbg2.jpg">
+	<img src="jbg3.jpg">
+	<img src="jbg4.jpg">
+	<img src="jbg5.jpg">
+	<img src="jbg6.jpg">
+	<img src="jbg7.jpg">
+	<img src="jbg8.jpg">
+	<img src="jbg9.jpg">
+	<img src="jbg10.jpg">
+	<img src="jbg11.jpg">
+	<img src="jbg12.jpg">
+	<img src="jbg13.jpg">
+	<img src="jbg14.jpg">
+	<img src="jbg15.jpg">
+	<img src="jbg16.jpg">
+	<img src="jbg17.jpg">
+
+</div>
+<div class="dream">
+	<img src="jbg1.jpg">
+	<img src="jbg2.jpg">
+	<img src="jbg3.jpg">
+	<img src="jbg4.jpg">
+	<img src="jbg5.jpg">
+	<img src="jbg6.jpg">
+	<img src="jbg7.jpg">
+	<img src="jbg8.jpg">
+	<img src="jbg9.jpg">
+	<img src="jbg10.jpg">
+	<img src="jbg11.jpg">
+	<img src="jbg12.jpg">
+	<img src="jbg13.jpg">
+	<img src="jbg14.jpg">
+	<img src="jbg15.jpg">
+	<img src="jbg16.jpg">
+	<img src="jbg17.jpg">
+
+</div>
+
+</div>
+	
+</font>
+</body>
+</html>

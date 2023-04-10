@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'poppins', sans-serif;
+}
+
+
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin: 80px 40px 0 20px ;
+}
+
+.container .heading h3{
+    font-size: 3em;
+    font-weight: bolder;
+    border-bottom: 3px solid #222;
+
+}.container .box{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+   
+}
+
+.container .btn{
+    margin: 30px 0 70px 0;
+    background: #222;
+    padding: 15px 40px;
+    border-radius: 5px;
+}
+
+.container .btn a{
+    color: #ffffff;
+    font-size: 1.2em;
+    text-decoration: none;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+.container .dream {
+    width: 300;
+    height: 200;
+}
+@media only screen and (max-width: 600px) {
+    body {
+      background-color: lightblue;
+    }
+  }
